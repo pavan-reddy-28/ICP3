@@ -18,7 +18,7 @@ b. Create a random vector of size 20 from range 1-20 using random function
 c. Reshape the array to 4 by 5 using reshape function
 d. Find the max element in each row and replace the value with 0 
 
-
+Recording : https://drive.google.com/file/d/1zycl8BM96PSA1lpdvj6L0n8jbafdZNSX/view?usp=share_link
 
 
 
